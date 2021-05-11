@@ -6,7 +6,7 @@
 }
 
 .search-bar{
-    display: block;
+    display: flex;
     position: relative;
     margin: auto;
     margin-top: 30px;
@@ -20,6 +20,15 @@
 }
 
 .search-button{
-    display: block;
-    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#search-button{
+
+}
+
+#lucky-button{
+
 }

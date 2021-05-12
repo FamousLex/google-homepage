@@ -2,11 +2,7 @@
     display: block;
     position: relative;
     margin: auto;
-<<<<<<< HEAD
     margin-top: 200px;
-=======
-    margin-top: 250px;
->>>>>>> 11270f44136d2cfd9b0af22140d33e20feb2d106
 }
 
 .search-bar{
@@ -17,11 +13,7 @@
     width: 550px;
     height: 40px;
     border-color: rgb(0, 0, 0);
-<<<<<<< HEAD
     opacity: 20%;
-=======
-    opacity: 50%;
->>>>>>> 11270f44136d2cfd9b0af22140d33e20feb2d106
     border-width: 1px;
     border-radius: 35px;
     border-style: solid;
@@ -33,7 +25,6 @@
     align-items: center;
 }
 
-<<<<<<< HEAD
 .buttons{
     margin: 10px;
     padding: 10px 20px 10px 20px;
@@ -83,12 +74,4 @@
 #carbon{
 
     justify-self: center;
-=======
-#search-button{
-
-}
-
-#lucky-button{
-
->>>>>>> 11270f44136d2cfd9b0af22140d33e20feb2d106
 }

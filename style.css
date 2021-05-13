@@ -1,3 +1,55 @@
+header{
+    margin-top: 20px;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li{
+    display: inline;
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+nav button{
+    margin-left: auto;
+    background: rgb(30, 182, 202);
+    color: white;
+    height: 50px;
+    width: 100px;
+    font-size: 16px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(30, 182, 202);
+
+}
+
+.header-text{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
 .google-logo{
     display: block;
     position: relative;
@@ -33,17 +85,6 @@
     border-color: rgb(255, 255, 255)
 }
 
-.header{
-    display: flex;
-    justify-content: space-between;
-}
-
-.sign-in{
-    background-color: blue;
-    color: white;
-
-}
-
 .footer{
     display: flex;
     background-color: rgb(231, 231, 231);
@@ -53,23 +94,36 @@
     width: 100%;
 }
 
-.header-text{
-    font-size: 14px;
-    font-family: 'Roboto', sans-serif;
-}
-
 .footer-text{
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
 }
 
+
+
+
+
 #about{
-    
+    margin-right: auto;
 }
 
 #store{
-    
+
 }
+
+#gmail{
+    margin-left: auto;
+}
+
+#images{
+
+}
+
+#apps{
+
+}
+
+
 
 #carbon{
 

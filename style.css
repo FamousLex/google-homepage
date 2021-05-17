@@ -31,6 +31,11 @@ nav li {
     padding: 10px 5px 0px 10px;
 }
 
+#store{
+    margin-right: auto;
+    padding-left: 15px;
+}
+
 a {
     color: black;
     text-decoration: none;
@@ -75,7 +80,7 @@ nav button:hover {
 }
 
 .search-container{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 .google-logo{
@@ -138,29 +143,21 @@ footer ul{
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     opacity: 50%;
+    margin: 8px auto;
     list-style-type: none;
     display: flex;
     justify-content: space-between;
     width: 100%;
+    padding: 4px 5px 5px 30px;
 }
 
-#about{
-    padding-left: 20px;
+footer li {
+    display: inline;
+    margin: 0px 5px 0px 10px;
+    padding: 10px 5px 0px 10px;
 }
 
-#store{
-    margin-right: auto;
-    padding-left: 15px;
+.floatleft {
+    float: left;
 }
 
-#howsearch {
-}
-
-#privacy
-
-
-/*
-#carbon{
-
-    justify-self: center;
-}*/
